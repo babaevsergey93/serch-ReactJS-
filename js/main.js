@@ -2,22 +2,22 @@ const CONTACTS = [{
     id: 1,
     name: 'Rodion Adamenko',
     phoneNumber: '+380639999999',
-    image: 'bender.jpg'
+    image: 'images/bender.jpg'
 },{
     id: 2,
     name: 'Evgeniy Gladkih',
     phoneNumber: '+380633333333',
-    image: 'fray.jpg'
+    image: 'images/fray.jpg'
 },{
     id: 3,
     name: 'Nikolay White',
     phoneNumber: '+380632222222',
-    image: 'zoidberg.jpg'
+    image: 'images/zoidberg.jpg'
 },{
     id: 4,
     name: 'Elena Pira',
     phoneNumber: '+380632222222',
-    image: 'lila.jpg'
+    image: 'images/lila.jpg'
 }];
 
 let Contact = React.createClass({
