@@ -37,3 +37,9 @@
     font-size: 18px;
     color: grey;
 }
+
+.contact-info:after {
+    content: "";
+    display: table;
+    clear: both;
+}
